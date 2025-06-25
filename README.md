@@ -4,6 +4,9 @@ A simple and efficient **To-Do List App** built using **React.js** and powered b
 
 ---
 
+![Screenshot (43)](https://github.com/user-attachments/assets/0ac69c1c-d94f-43d6-804b-27a5877bac00)
+
+
 ## 🚀 Features
 
 - ✅ Add new tasks
